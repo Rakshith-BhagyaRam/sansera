@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313481450273",
+    "project_id": "sansera-forge",
+    "storage_bucket": "sansera-forge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313481450273:android:35167fb1213d1f66e3a460",
+        "android_client_info": {
+          "package_name": "com.sansera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313481450273-op2mj69hnuim4buqatn32ttp6rj8rriv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3m4Vq8GmltFoZUeojrgJDiYmttawkJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313481450273-op2mj69hnuim4buqatn32ttp6rj8rriv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
